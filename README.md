@@ -6,6 +6,6 @@ car than the previous set did.
 
 ## Sample Output
 
-Total Simulations: 100000
-Total Wins With No Switch: 33321, or 33%
-Wins With Switch Strategy: 66607, or 67%
+    Total Simulations: 100000
+    Total Wins With No Switch: 33321, or 33%
+    Wins With Switch Strategy: 66607, or 67%
